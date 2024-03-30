@@ -21,9 +21,17 @@
 
  - 🗿 **I AM BENGALI 🤲🏻**
 
-## Listening to
+## LISTENING TO
 <p align = "middle">
 <img width = '60.5%' src="https://spotify-github-profile.vercel.app/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=true&theme=novatorem&show_offline=false&background_color=1c9b1c&interchange=true&bar_color=d03524&bar_color_cover=false"/>
 </a>
 </p>
 <br/>
+
+## MY GITHUB STATUS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+</picture>
