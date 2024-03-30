@@ -11,12 +11,12 @@
 
 <h4 align="center">
   
- - 🔭 I’M Currently Working On **Whatsapp Bots**
+ - 🤖 I’M CURRENTLY WORKING ON **WHATSAPP BOTS**
 
- - 🌱 I’M Currently Learning **____**
+ - 🌱 I’M CURRENTLY LEARNING **____**
 
- - 💬 Ask Me About **Whatsapp Bots**
+ - 📌 ASK ME ABOUT **WHATSAPP BOTS**
 
- - 📫 How To Reach Me **AbhishekSuresh2030@gmail.com**
+ - 💌 HOW TO REACH ME **rsstatus004@gmail.com**
 
- - ⚡ Fun Fact **I Think I Am Funny😂**
+ - 🗿 **I AM BENGALI 🤲🏻**
