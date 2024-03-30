@@ -7,7 +7,7 @@
     </p>
   <a href="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksuresh2&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksuresh2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tahul121&label=Profile%20views&color=0e75b6&style=flat" alt="Tahul121" /> </p>
 
 - 🔭 I’M Currently Working On **Whatsapp Bots**
 
