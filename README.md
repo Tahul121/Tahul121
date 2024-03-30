@@ -10,12 +10,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tahul121&label=Profile%20views&color=0e75b6&style=flat" alt="Tahul121" /> </p>
 
 <h4 align="center">
-- 🔭 I’M Currently Working On **Whatsapp Bots**
+  
+ 🔭 I’M Currently Working On **Whatsapp Bots**
 
-- 🌱 I’M Currently Learning **____**
+ 🌱 I’M Currently Learning **____**
 
-- 💬 Ask Me About **Whatsapp Bots**
+ 💬 Ask Me About **Whatsapp Bots**
 
-- 📫 How To Reach Me **AbhishekSuresh2030@gmail.com**
+ 📫 How To Reach Me **AbhishekSuresh2030@gmail.com**
 
-- ⚡ Fun Fact **I Think I Am Funny😂**
+ ⚡ Fun Fact **I Think I Am Funny😂**
