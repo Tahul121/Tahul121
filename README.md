@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tahul121&label=Profile%20views&color=0e75b6&style=flat" alt="Tahul121" /> </p>
 
-- 🔭 I’M Currently Working On **Whatsapp Bots**
+<h1 align="center">- 🔭 I’M Currently Working On **Whatsapp Bots**
 
 - 🌱 I’M Currently Learning **____**
 
