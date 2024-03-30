@@ -36,7 +36,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="left">
-<a href="https://github.com/AbhishekSuresh2?tab=languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSuresh2&theme=highcontrast&layout=compact" alt="Languages">
+<div align="center">
+<a href="https://github.com/Tahul121?tab=languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahul121&theme=highcontrast&layout=compact" alt="Languages">
 </p>
